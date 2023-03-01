@@ -47,4 +47,4 @@ function cardCheck(cardNumber) {
 
 console.log(cardCheck("4658653270453015"));
 
-module.exports;
+module.exports = cardCheck;
